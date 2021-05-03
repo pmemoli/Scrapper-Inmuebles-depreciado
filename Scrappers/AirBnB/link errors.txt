@@ -1,0 +1,6 @@
+[1213/114121.594:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+
+https://www.airbnb.com.ar/rooms/6886258?location=san%20martin%20de%20los%20andes&previous_page_section_name=1000&search_id=722b31c1-2492-d797-0b0c-d95aa1e82cb7&federated_search_id=7551f9a3-ef9b-4ba8-a560-be06f77f4d50
+https://www.airbnb.com.ar/rooms/16528110?location=san%20martin%20de%20los%20andes&previous_page_section_name=1000&federated_search_id=7d613839-11df-45b1-af7e-6385563ceba2
+https://www.airbnb.com.ar/rooms/14697942?location=san%20martin%20de%20los%20andes&previous_page_section_name=1000&search_id=88a1fe67-d799-296a-ed8b-f2cda9822702&federated_search_id=ef13902b-fe5c-4f5e-850f-12b5382baa63
+https://www.airbnb.com.ar/rooms/33932769?location=san%20martin%20de%20los%20andes&previous_page_section_name=1000&federated_search_id=fe87f8c6-ddbb-4d5e-9fe8-d7f8a82180e3
